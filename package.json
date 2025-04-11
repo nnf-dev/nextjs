@@ -9,7 +9,7 @@
         "lint": "next lint --fix .",
         "format": "prettier --write .",
         "depcheck": "depcheck",
-        "prepare": "husky install"
+        "prepare": "husky"
     },
     "dependencies": {
         "next": "15.3.0",
