@@ -1,0 +1,10 @@
+ignores:
+    - "tailwindcss"
+    - "husky"
+    - "@tailwindcss/postcss"
+    - "@eslint/eslintrc"
+    - "@types/node"
+    - "@types/react"
+    - "@types/react-dom"
+    - "eslint-config-next"
+    - "eslint-plugin-prettier"
